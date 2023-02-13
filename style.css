@@ -6385,6 +6385,29 @@ padding-left:50px;
 padding-right:50px;
 padding-bottom:40px;
 }
+/* andmore */
+ .and_more
+{
+border-radius:0px 0px 0px 0px;
+border:solid transparent;
+border:solid rgba(255,255,255,0);
+border-width:0px 0px 0px 0px;
+box-shadow:none;
+margin-top:0px;
+margin-left:0px;
+margin-right:0px;
+margin-bottom:0px;
+background-color:#FF5677;
+background:rgb(255, 255, 255);
+background-clip:padding-box;padding-top:5px;
+padding-left:5px;
+padding-right:5px;
+padding-bottom:5px;
+}
+/* andmore */
+
+
+
  .ttr_Home_html_column70
 {
 border-radius:0px 0px 0px 0px;
